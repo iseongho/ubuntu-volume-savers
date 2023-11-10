@@ -2,15 +2,15 @@
 
 ## Configuration
 
-**snap.clean.sh**: This script is used to remove unused snap packages.  
+**snap.clean.sh**: This script is used to remove disabled snap packages.  
 **tmp.clean.sh**: This script removes temporary files that are older than one day.
 
 ## Usage
 
 To use these scripts, you need to make them executable and then run them with sudo. Here's how you can do it:
 
-Make the script executable: **sudo chmod +x {filename}.sh**  
-Execute the script as a superuser: **sudo bash {filename}.sh**
+Make the script executable: `sudo chmod +x {filename}.sh`  
+Execute the script as a superuser: `sudo bash {filename}.sh`
 
 ## Automation
 
