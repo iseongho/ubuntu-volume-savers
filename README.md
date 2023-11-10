@@ -7,9 +7,8 @@
 
 ## Usage
 
-To use these scripts, you need to make them executable and then run them with sudo. Here's how you can do it:
+To use these scripts, you need to run them with sudo. Here's how you can do it:
 
-Make the script executable: `sudo chmod +x {filename}.sh`  
 Execute the script as a superuser: `sudo bash {filename}.sh`
 
 ## Automation
